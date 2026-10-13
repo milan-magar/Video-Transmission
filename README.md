@@ -96,7 +96,7 @@ VideoTransmission/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<yourname>/video-transmission.git
+git clone https://github.com/milan-magar/video-transmission.git
 cd video-transmission
 ```
 
