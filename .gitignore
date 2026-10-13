@@ -1,0 +1,11 @@
+laptop-video-server/out/
+*.class
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.log
+.DS_Store
+Thumbs.db
