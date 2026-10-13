@@ -1,11 +1,37 @@
+# ---------- Java server ----------
 laptop-video-server/out/
 *.class
+
+# ---------- Android ----------
 .gradle/
 build/
 local.properties
 .idea/
 *.iml
 *.apk
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ---------- Python ----------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pt
+*.onnx
+*.tflite
+*.mp4
+*.avi
 *.log
+
+# ---------- OS ----------
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# ---------- Secrets ----------
+*.keystore
+*.jks
+secrets.properties
